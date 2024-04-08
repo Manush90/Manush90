@@ -1,4 +1,4 @@
-<h1 align="center">Ciao!!! Sono Manuel Dell'Oste</h1>
+<h1 align="center">Ciao!<br>Sono Manuel Dell'Oste</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Attualmento sono uno studente Epicode<br>🎯 Entrare in questo mondo lavorativo con aziende che mi possano permettere di cresce a livello personale<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Attualmento sono uno studente FullStack Developer in Epicode. Spero di arricchire le mie competenze alla fine del corso e riuscire a raggiungere aziende che mi facciano crescere ultimeriormente in questo campo.</p>
 
 ###
 
@@ -65,4 +65,3 @@
 </div>
 
 ###
- 
