@@ -1,8 +1,5 @@
 <h1 align="center">Ciao!<br>Sono Manuel Dell'Oste</h1>
 
-###
-
-<h2 align="center">Junior FullStack Developer !</h2>
 
 ###
 
